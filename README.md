@@ -1,6 +1,6 @@
 # Cinematic Focus Pull (MATLAB)
 
-A Digital Signal Processing project (ECE465) that turns a single still image into a
+A Digital Signal Processing project (ECE466) that turns a single still image into a
 cinematic "focus pull" animation, going from heavily blurred to perfectly sharp.
 
 ## How it works
