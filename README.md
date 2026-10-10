@@ -36,6 +36,11 @@ cinematic "focus pull" animation, going from heavily blurred to perfectly sharp.
 | `0.06` in `noiseLevel` | `0.06` | Maximum noise level |
 | `pause(0.05)` | `0.05` s | Delay between frames |
 
+## Project Report
+
+The full report (introduction, methodology, flowchart, source code and results) is available here: [DSP_Project_Report.pdf](DSP_Project_Report.pdf)
+
 ## Authors
 
+Omar Mohamed (ID 231147)
 Omar Mohamed (ID 231147)
